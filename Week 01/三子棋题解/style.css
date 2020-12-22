@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.welcome-text {
+  text-align: center;
+  background-color: aqua;
+}
+
+.container {
+  margin: 10vh;
+  background-color: bisque;
+  text-align: center;
+}
+
+.box {
+  width: 150px;
+  height: 150px;
+  font-size: 50px;
+  text-align: center;
+}
